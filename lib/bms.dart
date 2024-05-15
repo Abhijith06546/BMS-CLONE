@@ -103,7 +103,7 @@ class _bmsState extends State<bms> {
                 children: [
                   SizedBox(height: 10),
                   Container(
-                    height: 100,
+                    height: 70,
                     child: ListView.builder(
                       scrollDirection: Axis.horizontal,
                       itemCount: nav.length,
@@ -159,7 +159,7 @@ class _bmsState extends State<bms> {
                   Row(
                     children: [
                       SizedBox(width: 14,),
-                       Text('Recommended Movies',
+                       Text('Recommended Movies 02589',
                        style: TextStyle(
                          fontWeight: FontWeight.bold,
                          fontSize: 22,
