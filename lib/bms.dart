@@ -159,7 +159,7 @@ class _bmsState extends State<bms> {
                   Row(
                     children: [
                       SizedBox(width: 14,),
-                       Text('Recommended Movies',
+                       Text('Recommended Movies 345345',
                        style: TextStyle(
                          fontWeight: FontWeight.bold,
                          fontSize: 22,
